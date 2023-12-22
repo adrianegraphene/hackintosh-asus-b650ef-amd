@@ -5,10 +5,11 @@
 | ---------------- | --------------------------------------	|
 | Motherboard      | Asus ROG Strix B650E-F        			|
 | CPU              | AMD Ryzen 9 7900X             			|
-| Memory           | G.Skill Flare X5 32GB 6000MHz 			|
-| GPU              | Sapphire Nitro+ Radeon RX 6950 XT		|
-| WLAN & Bluetooth | Fenvi T919 							|
-| Chassis          | Fractal North							|
+| Memory           | G.Skill Flare X5 16GB 6000MHz 			|
+| GPU              | MSI Radeon RX 6800		|
+| WLAN & Bluetooth | ---Fenvi T919--- 							|
+| Chassis          | Soem CyberPower bought chassis					|
+| Storage NVMe     | WD SN850x 2TB				|
 | Storage NVMe     | SK hynix Platinum P41 2TB				|
 | Storage NVMe     | Inland Performance Plus 2TB			|
 | Storage NVMe     | Crucial P3 Plus 2TB					|
