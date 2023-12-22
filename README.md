@@ -7,20 +7,25 @@
 | CPU              | AMD Ryzen 9 7900X             			|
 | Memory           | G.Skill Flare X5 16GB 6000MHz 			|
 | GPU              | MSI Radeon RX 6800		|
-| WLAN & Bluetooth | ---Fenvi T919--- 							|
-| Chassis          | Soem CyberPower bought chassis					|
-| Storage NVMe     | WD SN850x 2TB				|
+| WLAN & Bluetooth | MediaTek RZ608 Wi-Fi 6E 80MHz			|
+| Chassis          | Some CyberPower bought chassis	from a prebuilt |
+| Storage NVMe     | WD Black SN850x 2TB NVMe			|
 | Storage NVMe     | SK hynix Platinum P41 2TB				|
-| Storage NVMe     | Inland Performance Plus 2TB			|
-| Storage NVMe     | Crucial P3 Plus 2TB					|
-| Storage SSD      | Samsung 870 EVO 1TB					|
-| Storage NVMe     | Samsung 860 EVO 1TB					|
+| Storage NVMe     | Kingston SKC3000S1024G 1TB			|
+| Storage NVMe     | Crucial P5 Plus 2TB					|
+| Storage SSD      | Apple SM512E 500GB					|
+| Storage SSD     | WDC WDS500G2b0a 500Gb					|
+| Storage HD     | WDC WDS500G2b0a 500Gb					|
+| Storage HD     | WDC WD10JPLX-00MBPT0 1TB					|
+| Storage HD     | WDC WD80EMAZ-00WJTA0 8TB					|
+
+
 ### Software
 
 | Component | Model  	|
 | --------- | --------- |
 | OpenCore  | 0.9.6		|
-| macOS     | 13.6.1	|
+| macOS     | 14.2	|
 | BIOS      | 1654   	|
 
 ## Setup Notes
