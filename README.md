@@ -25,7 +25,7 @@
 | Component | Model  	|
 | --------- | --------- |
 | OpenCore  | 0.9.6		|
-| macOS     | 14.2	|
+| macOS     | ventura?	|
 | BIOS      | 1654   	|
 
 ## Setup Notes
