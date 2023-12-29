@@ -5,7 +5,7 @@
 | ---------------- | --------------------------------------	|
 | Motherboard      | Asus ROG Strix B650E-F        			|
 | CPU              | AMD Ryzen 9 7900X             			|
-| Memory           | G.Skill Flare X5 16GB 6000MHz 			|
+| Memory           | G.Skill Flare X5 16GB 6000MHz (x4 for 64 GB)			|
 | GPU              | MSI Radeon RX 6800		|
 | WLAN & Bluetooth | MediaTek RZ608 Wi-Fi 6E 80MHz			|
 | Chassis          | Some CyberPower bought chassis	from a prebuilt |
